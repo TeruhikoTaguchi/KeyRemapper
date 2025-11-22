@@ -1,0 +1,13 @@
+# ビルド成果物
+KeyRemapper
+
+# Xcode
+.DS_Store
+*.xcodeproj
+*.xcworkspace
+build/
+DerivedData/
+
+# 個人用設定ファイル
+*.plist
+
