@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Ctrl+Space → Enter 変換ツール のビルド"
+echo "Ctrl キーリマッピングツール のビルド"
 echo "========================================"
 echo ""
 
